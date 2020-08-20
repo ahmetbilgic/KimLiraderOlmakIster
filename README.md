@@ -1,2 +1,2 @@
-# Lirader olmak isteyenlerin en sevdiği python uygulaması
+# Lirader olmak isteyenlerin en sevdiği python yarışması
  
